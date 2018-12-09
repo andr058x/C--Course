@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ereditarieta", "ereditarieta\ereditarieta.csproj", "{7F03D402-A805-4A4E-A56B-D0F21E89A571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F03D402-A805-4A4E-A56B-D0F21E89A571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F03D402-A805-4A4E-A56B-D0F21E89A571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F03D402-A805-4A4E-A56B-D0F21E89A571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F03D402-A805-4A4E-A56B-D0F21E89A571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE1EBF4-3496-4491-8E39-F59677708121}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\projects\c#\43\menufunc1\menufunc1\obj\Debug\menufunc1.csprojAssemblyReference.cache
+C:\projects\c#\43\menufunc1\menufunc1\obj\Debug\menufunc1.csproj.CoreCompileInputs.cache
+C:\projects\c#\43\menufunc1\menufunc1\bin\Debug\menufunc1.exe.config
+C:\projects\c#\43\menufunc1\menufunc1\bin\Debug\menufunc1.exe
+C:\projects\c#\43\menufunc1\menufunc1\bin\Debug\menufunc1.pdb
+C:\projects\c#\43\menufunc1\menufunc1\obj\Debug\menufunc1.exe
+C:\projects\c#\43\menufunc1\menufunc1\obj\Debug\menufunc1.pdb

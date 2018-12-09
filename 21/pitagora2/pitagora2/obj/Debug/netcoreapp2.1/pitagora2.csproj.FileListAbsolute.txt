@@ -1,0 +1,10 @@
+C:\projects\c#\21\pitagora2\pitagora2\obj\Debug\netcoreapp2.1\pitagora2.csproj.CoreCompileInputs.cache
+C:\projects\c#\21\pitagora2\pitagora2\obj\Debug\netcoreapp2.1\pitagora2.AssemblyInfoInputs.cache
+C:\projects\c#\21\pitagora2\pitagora2\obj\Debug\netcoreapp2.1\pitagora2.AssemblyInfo.cs
+C:\projects\c#\21\pitagora2\pitagora2\bin\Debug\netcoreapp2.1\pitagora2.deps.json
+C:\projects\c#\21\pitagora2\pitagora2\bin\Debug\netcoreapp2.1\pitagora2.runtimeconfig.json
+C:\projects\c#\21\pitagora2\pitagora2\bin\Debug\netcoreapp2.1\pitagora2.runtimeconfig.dev.json
+C:\projects\c#\21\pitagora2\pitagora2\bin\Debug\netcoreapp2.1\pitagora2.dll
+C:\projects\c#\21\pitagora2\pitagora2\bin\Debug\netcoreapp2.1\pitagora2.pdb
+C:\projects\c#\21\pitagora2\pitagora2\obj\Debug\netcoreapp2.1\pitagora2.dll
+C:\projects\c#\21\pitagora2\pitagora2\obj\Debug\netcoreapp2.1\pitagora2.pdb

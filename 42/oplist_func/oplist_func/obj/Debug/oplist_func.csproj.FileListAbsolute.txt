@@ -1,0 +1,7 @@
+C:\projects\c#\42\oplist_func\oplist_func\bin\Debug\oplist_func.exe.config
+C:\projects\c#\42\oplist_func\oplist_func\bin\Debug\oplist_func.exe
+C:\projects\c#\42\oplist_func\oplist_func\bin\Debug\oplist_func.pdb
+C:\projects\c#\42\oplist_func\oplist_func\obj\Debug\oplist_func.csprojAssemblyReference.cache
+C:\projects\c#\42\oplist_func\oplist_func\obj\Debug\oplist_func.csproj.CoreCompileInputs.cache
+C:\projects\c#\42\oplist_func\oplist_func\obj\Debug\oplist_func.exe
+C:\projects\c#\42\oplist_func\oplist_func\obj\Debug\oplist_func.pdb

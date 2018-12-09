@@ -1,0 +1,11 @@
+C:\projects\c#\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.deps.json
+C:\projects\c#\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.runtimeconfig.json
+C:\projects\c#\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.runtimeconfig.dev.json
+C:\projects\c#\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.dll
+C:\projects\c#\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.pdb
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.csproj.CoreCompileInputs.cache
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.AssemblyInfoInputs.cache
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.AssemblyInfo.cs
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.dll
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.pdb
+C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.csprojAssemblyReference.cache

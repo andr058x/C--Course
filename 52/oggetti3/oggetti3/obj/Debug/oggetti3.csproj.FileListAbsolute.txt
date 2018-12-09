@@ -1,0 +1,6 @@
+C:\projects\c#\52\oggetti3\oggetti3\bin\Debug\oggetti3.exe.config
+C:\projects\c#\52\oggetti3\oggetti3\bin\Debug\oggetti3.exe
+C:\projects\c#\52\oggetti3\oggetti3\bin\Debug\oggetti3.pdb
+C:\projects\c#\52\oggetti3\oggetti3\obj\Debug\oggetti3.csproj.CoreCompileInputs.cache
+C:\projects\c#\52\oggetti3\oggetti3\obj\Debug\oggetti3.exe
+C:\projects\c#\52\oggetti3\oggetti3\obj\Debug\oggetti3.pdb

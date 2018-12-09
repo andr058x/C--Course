@@ -1,0 +1,10 @@
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\obj\Debug\netcoreapp2.1\ordinamentostatico.csproj.CoreCompileInputs.cache
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\obj\Debug\netcoreapp2.1\ordinamentostatico.AssemblyInfoInputs.cache
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\obj\Debug\netcoreapp2.1\ordinamentostatico.AssemblyInfo.cs
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\bin\Debug\netcoreapp2.1\ordinamentostatico.deps.json
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\bin\Debug\netcoreapp2.1\ordinamentostatico.runtimeconfig.json
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\bin\Debug\netcoreapp2.1\ordinamentostatico.runtimeconfig.dev.json
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\bin\Debug\netcoreapp2.1\ordinamentostatico.dll
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\bin\Debug\netcoreapp2.1\ordinamentostatico.pdb
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\obj\Debug\netcoreapp2.1\ordinamentostatico.dll
+C:\projects\c#\39\ordinamentostatico\ordinamentostatico\obj\Debug\netcoreapp2.1\ordinamentostatico.pdb

@@ -1,0 +1,11 @@
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.csprojAssemblyReference.cache
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.csproj.CoreCompileInputs.cache
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.AssemblyInfoInputs.cache
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.AssemblyInfo.cs
+C:\projects\c#\38\ordina2\ordina2\bin\Debug\netcoreapp2.1\ordina2.deps.json
+C:\projects\c#\38\ordina2\ordina2\bin\Debug\netcoreapp2.1\ordina2.runtimeconfig.json
+C:\projects\c#\38\ordina2\ordina2\bin\Debug\netcoreapp2.1\ordina2.runtimeconfig.dev.json
+C:\projects\c#\38\ordina2\ordina2\bin\Debug\netcoreapp2.1\ordina2.dll
+C:\projects\c#\38\ordina2\ordina2\bin\Debug\netcoreapp2.1\ordina2.pdb
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.dll
+C:\projects\c#\38\ordina2\ordina2\obj\Debug\netcoreapp2.1\ordina2.pdb

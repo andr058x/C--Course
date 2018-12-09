@@ -1,0 +1,11 @@
+C:\projects\c#\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.deps.json
+C:\projects\c#\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.runtimeconfig.json
+C:\projects\c#\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.runtimeconfig.dev.json
+C:\projects\c#\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.dll
+C:\projects\c#\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.pdb
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.csproj.CoreCompileInputs.cache
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.AssemblyInfoInputs.cache
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.AssemblyInfo.cs
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.dll
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.pdb
+C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.csprojAssemblyReference.cache

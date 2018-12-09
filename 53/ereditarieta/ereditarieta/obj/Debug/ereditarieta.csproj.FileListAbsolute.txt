@@ -1,0 +1,7 @@
+C:\projects\c#\53\ereditarieta\ereditarieta\bin\Debug\ereditarieta.exe.config
+C:\projects\c#\53\ereditarieta\ereditarieta\bin\Debug\ereditarieta.exe
+C:\projects\c#\53\ereditarieta\ereditarieta\bin\Debug\ereditarieta.pdb
+C:\projects\c#\53\ereditarieta\ereditarieta\obj\Debug\ereditarieta.csprojAssemblyReference.cache
+C:\projects\c#\53\ereditarieta\ereditarieta\obj\Debug\ereditarieta.csproj.CoreCompileInputs.cache
+C:\projects\c#\53\ereditarieta\ereditarieta\obj\Debug\ereditarieta.exe
+C:\projects\c#\53\ereditarieta\ereditarieta\obj\Debug\ereditarieta.pdb

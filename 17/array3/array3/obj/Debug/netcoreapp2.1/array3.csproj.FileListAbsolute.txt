@@ -1,0 +1,10 @@
+C:\projects\c#\17\array3\array3\bin\Debug\netcoreapp2.1\array3.deps.json
+C:\projects\c#\17\array3\array3\bin\Debug\netcoreapp2.1\array3.runtimeconfig.json
+C:\projects\c#\17\array3\array3\bin\Debug\netcoreapp2.1\array3.runtimeconfig.dev.json
+C:\projects\c#\17\array3\array3\bin\Debug\netcoreapp2.1\array3.dll
+C:\projects\c#\17\array3\array3\bin\Debug\netcoreapp2.1\array3.pdb
+C:\projects\c#\17\array3\array3\obj\Debug\netcoreapp2.1\array3.csproj.CoreCompileInputs.cache
+C:\projects\c#\17\array3\array3\obj\Debug\netcoreapp2.1\array3.AssemblyInfoInputs.cache
+C:\projects\c#\17\array3\array3\obj\Debug\netcoreapp2.1\array3.AssemblyInfo.cs
+C:\projects\c#\17\array3\array3\obj\Debug\netcoreapp2.1\array3.dll
+C:\projects\c#\17\array3\array3\obj\Debug\netcoreapp2.1\array3.pdb

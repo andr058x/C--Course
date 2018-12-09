@@ -1,0 +1,10 @@
+C:\projects\c#\33\switcharray1\switcharray1\bin\Debug\netcoreapp2.1\switcharray1.deps.json
+C:\projects\c#\33\switcharray1\switcharray1\bin\Debug\netcoreapp2.1\switcharray1.runtimeconfig.json
+C:\projects\c#\33\switcharray1\switcharray1\bin\Debug\netcoreapp2.1\switcharray1.runtimeconfig.dev.json
+C:\projects\c#\33\switcharray1\switcharray1\bin\Debug\netcoreapp2.1\switcharray1.dll
+C:\projects\c#\33\switcharray1\switcharray1\bin\Debug\netcoreapp2.1\switcharray1.pdb
+C:\projects\c#\33\switcharray1\switcharray1\obj\Debug\netcoreapp2.1\switcharray1.csproj.CoreCompileInputs.cache
+C:\projects\c#\33\switcharray1\switcharray1\obj\Debug\netcoreapp2.1\switcharray1.AssemblyInfoInputs.cache
+C:\projects\c#\33\switcharray1\switcharray1\obj\Debug\netcoreapp2.1\switcharray1.AssemblyInfo.cs
+C:\projects\c#\33\switcharray1\switcharray1\obj\Debug\netcoreapp2.1\switcharray1.dll
+C:\projects\c#\33\switcharray1\switcharray1\obj\Debug\netcoreapp2.1\switcharray1.pdb

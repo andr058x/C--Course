@@ -1,0 +1,6 @@
+C:\projects\c#\44\struct1\struct1\bin\Debug\struct1.exe.config
+C:\projects\c#\44\struct1\struct1\bin\Debug\struct1.exe
+C:\projects\c#\44\struct1\struct1\bin\Debug\struct1.pdb
+C:\projects\c#\44\struct1\struct1\obj\Debug\struct1.csproj.CoreCompileInputs.cache
+C:\projects\c#\44\struct1\struct1\obj\Debug\struct1.exe
+C:\projects\c#\44\struct1\struct1\obj\Debug\struct1.pdb

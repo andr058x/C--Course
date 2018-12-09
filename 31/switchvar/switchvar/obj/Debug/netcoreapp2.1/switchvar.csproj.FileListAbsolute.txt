@@ -1,0 +1,11 @@
+C:\projects\c#\31\switchvar\switchvar\bin\Debug\netcoreapp2.1\switchvar.deps.json
+C:\projects\c#\31\switchvar\switchvar\bin\Debug\netcoreapp2.1\switchvar.runtimeconfig.json
+C:\projects\c#\31\switchvar\switchvar\bin\Debug\netcoreapp2.1\switchvar.runtimeconfig.dev.json
+C:\projects\c#\31\switchvar\switchvar\bin\Debug\netcoreapp2.1\switchvar.dll
+C:\projects\c#\31\switchvar\switchvar\bin\Debug\netcoreapp2.1\switchvar.pdb
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.csprojAssemblyReference.cache
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.csproj.CoreCompileInputs.cache
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.AssemblyInfoInputs.cache
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.AssemblyInfo.cs
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.dll
+C:\projects\c#\31\switchvar\switchvar\obj\Debug\netcoreapp2.1\switchvar.pdb

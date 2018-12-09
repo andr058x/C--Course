@@ -1,0 +1,7 @@
+C:\projects\c#\50\oggetti\oggetti\bin\Debug\oggetti.exe.config
+C:\projects\c#\50\oggetti\oggetti\bin\Debug\oggetti.exe
+C:\projects\c#\50\oggetti\oggetti\bin\Debug\oggetti.pdb
+C:\projects\c#\50\oggetti\oggetti\obj\Debug\oggetti.csprojAssemblyReference.cache
+C:\projects\c#\50\oggetti\oggetti\obj\Debug\oggetti.csproj.CoreCompileInputs.cache
+C:\projects\c#\50\oggetti\oggetti\obj\Debug\oggetti.exe
+C:\projects\c#\50\oggetti\oggetti\obj\Debug\oggetti.pdb

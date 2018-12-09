@@ -1,0 +1,10 @@
+C:\projects\c#\15\bool2\bool2\bin\Debug\netcoreapp2.1\bool2.deps.json
+C:\projects\c#\15\bool2\bool2\bin\Debug\netcoreapp2.1\bool2.runtimeconfig.json
+C:\projects\c#\15\bool2\bool2\bin\Debug\netcoreapp2.1\bool2.runtimeconfig.dev.json
+C:\projects\c#\15\bool2\bool2\bin\Debug\netcoreapp2.1\bool2.dll
+C:\projects\c#\15\bool2\bool2\bin\Debug\netcoreapp2.1\bool2.pdb
+C:\projects\c#\15\bool2\bool2\obj\Debug\netcoreapp2.1\bool2.csproj.CoreCompileInputs.cache
+C:\projects\c#\15\bool2\bool2\obj\Debug\netcoreapp2.1\bool2.AssemblyInfoInputs.cache
+C:\projects\c#\15\bool2\bool2\obj\Debug\netcoreapp2.1\bool2.AssemblyInfo.cs
+C:\projects\c#\15\bool2\bool2\obj\Debug\netcoreapp2.1\bool2.dll
+C:\projects\c#\15\bool2\bool2\obj\Debug\netcoreapp2.1\bool2.pdb

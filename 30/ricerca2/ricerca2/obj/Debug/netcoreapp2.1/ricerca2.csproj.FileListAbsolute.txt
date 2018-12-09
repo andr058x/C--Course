@@ -1,0 +1,11 @@
+C:\projects\c#\30\ricerca2\ricerca2\bin\Debug\netcoreapp2.1\ricerca2.deps.json
+C:\projects\c#\30\ricerca2\ricerca2\bin\Debug\netcoreapp2.1\ricerca2.runtimeconfig.json
+C:\projects\c#\30\ricerca2\ricerca2\bin\Debug\netcoreapp2.1\ricerca2.runtimeconfig.dev.json
+C:\projects\c#\30\ricerca2\ricerca2\bin\Debug\netcoreapp2.1\ricerca2.dll
+C:\projects\c#\30\ricerca2\ricerca2\bin\Debug\netcoreapp2.1\ricerca2.pdb
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.csprojAssemblyReference.cache
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.csproj.CoreCompileInputs.cache
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.AssemblyInfoInputs.cache
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.AssemblyInfo.cs
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.dll
+C:\projects\c#\30\ricerca2\ricerca2\obj\Debug\netcoreapp2.1\ricerca2.pdb

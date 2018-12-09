@@ -1,0 +1,10 @@
+C:\projects\c#\06\cicli02\cicli02\bin\Debug\netcoreapp2.1\cicli02.deps.json
+C:\projects\c#\06\cicli02\cicli02\bin\Debug\netcoreapp2.1\cicli02.runtimeconfig.json
+C:\projects\c#\06\cicli02\cicli02\bin\Debug\netcoreapp2.1\cicli02.runtimeconfig.dev.json
+C:\projects\c#\06\cicli02\cicli02\bin\Debug\netcoreapp2.1\cicli02.dll
+C:\projects\c#\06\cicli02\cicli02\bin\Debug\netcoreapp2.1\cicli02.pdb
+C:\projects\c#\06\cicli02\cicli02\obj\Debug\netcoreapp2.1\cicli02.csproj.CoreCompileInputs.cache
+C:\projects\c#\06\cicli02\cicli02\obj\Debug\netcoreapp2.1\cicli02.AssemblyInfoInputs.cache
+C:\projects\c#\06\cicli02\cicli02\obj\Debug\netcoreapp2.1\cicli02.AssemblyInfo.cs
+C:\projects\c#\06\cicli02\cicli02\obj\Debug\netcoreapp2.1\cicli02.dll
+C:\projects\c#\06\cicli02\cicli02\obj\Debug\netcoreapp2.1\cicli02.pdb

@@ -1,0 +1,7 @@
+C:\projects\c#\56\automobile\automobile\obj\Debug\automobile.csprojAssemblyReference.cache
+C:\projects\c#\56\automobile\automobile\obj\Debug\automobile.csproj.CoreCompileInputs.cache
+C:\projects\c#\56\automobile\automobile\bin\Debug\automobile.exe.config
+C:\projects\c#\56\automobile\automobile\bin\Debug\automobile.exe
+C:\projects\c#\56\automobile\automobile\bin\Debug\automobile.pdb
+C:\projects\c#\56\automobile\automobile\obj\Debug\automobile.exe
+C:\projects\c#\56\automobile\automobile\obj\Debug\automobile.pdb

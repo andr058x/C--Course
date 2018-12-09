@@ -1,0 +1,7 @@
+C:\projects\c#\48\swicth\swicth\bin\Debug\swicth.exe.config
+C:\projects\c#\48\swicth\swicth\bin\Debug\swicth.exe
+C:\projects\c#\48\swicth\swicth\bin\Debug\swicth.pdb
+C:\projects\c#\48\swicth\swicth\obj\Debug\swicth.csproj.CoreCompileInputs.cache
+C:\projects\c#\48\swicth\swicth\obj\Debug\swicth.exe
+C:\projects\c#\48\swicth\swicth\obj\Debug\swicth.pdb
+C:\projects\c#\48\swicth\swicth\obj\Debug\swicth.csprojAssemblyReference.cache

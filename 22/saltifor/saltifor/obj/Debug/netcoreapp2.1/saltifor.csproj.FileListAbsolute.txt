@@ -1,0 +1,11 @@
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.csproj.CoreCompileInputs.cache
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.AssemblyInfoInputs.cache
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.AssemblyInfo.cs
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.csprojAssemblyReference.cache
+C:\projects\c#\22\saltifor\saltifor\bin\Debug\netcoreapp2.1\saltifor.deps.json
+C:\projects\c#\22\saltifor\saltifor\bin\Debug\netcoreapp2.1\saltifor.runtimeconfig.json
+C:\projects\c#\22\saltifor\saltifor\bin\Debug\netcoreapp2.1\saltifor.runtimeconfig.dev.json
+C:\projects\c#\22\saltifor\saltifor\bin\Debug\netcoreapp2.1\saltifor.dll
+C:\projects\c#\22\saltifor\saltifor\bin\Debug\netcoreapp2.1\saltifor.pdb
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.dll
+C:\projects\c#\22\saltifor\saltifor\obj\Debug\netcoreapp2.1\saltifor.pdb

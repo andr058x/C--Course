@@ -1,0 +1,11 @@
+C:\projects\c#\20\pitagora\pitagora\bin\Debug\netcoreapp2.1\pitagora.deps.json
+C:\projects\c#\20\pitagora\pitagora\bin\Debug\netcoreapp2.1\pitagora.runtimeconfig.json
+C:\projects\c#\20\pitagora\pitagora\bin\Debug\netcoreapp2.1\pitagora.runtimeconfig.dev.json
+C:\projects\c#\20\pitagora\pitagora\bin\Debug\netcoreapp2.1\pitagora.dll
+C:\projects\c#\20\pitagora\pitagora\bin\Debug\netcoreapp2.1\pitagora.pdb
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.csprojAssemblyReference.cache
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.csproj.CoreCompileInputs.cache
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.AssemblyInfoInputs.cache
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.AssemblyInfo.cs
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.dll
+C:\projects\c#\20\pitagora\pitagora\obj\Debug\netcoreapp2.1\pitagora.pdb

@@ -1,0 +1,10 @@
+C:\projects\c#\32\Scambiointeri\Scambiointeri\bin\Debug\netcoreapp2.1\Scambiointeri.deps.json
+C:\projects\c#\32\Scambiointeri\Scambiointeri\bin\Debug\netcoreapp2.1\Scambiointeri.runtimeconfig.json
+C:\projects\c#\32\Scambiointeri\Scambiointeri\bin\Debug\netcoreapp2.1\Scambiointeri.runtimeconfig.dev.json
+C:\projects\c#\32\Scambiointeri\Scambiointeri\bin\Debug\netcoreapp2.1\Scambiointeri.dll
+C:\projects\c#\32\Scambiointeri\Scambiointeri\bin\Debug\netcoreapp2.1\Scambiointeri.pdb
+C:\projects\c#\32\Scambiointeri\Scambiointeri\obj\Debug\netcoreapp2.1\Scambiointeri.csproj.CoreCompileInputs.cache
+C:\projects\c#\32\Scambiointeri\Scambiointeri\obj\Debug\netcoreapp2.1\Scambiointeri.AssemblyInfoInputs.cache
+C:\projects\c#\32\Scambiointeri\Scambiointeri\obj\Debug\netcoreapp2.1\Scambiointeri.AssemblyInfo.cs
+C:\projects\c#\32\Scambiointeri\Scambiointeri\obj\Debug\netcoreapp2.1\Scambiointeri.dll
+C:\projects\c#\32\Scambiointeri\Scambiointeri\obj\Debug\netcoreapp2.1\Scambiointeri.pdb

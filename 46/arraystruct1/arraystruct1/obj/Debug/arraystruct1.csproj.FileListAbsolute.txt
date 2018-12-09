@@ -1,0 +1,7 @@
+C:\projects\c#\46\arraystruct1\arraystruct1\bin\Debug\arraystruct1.exe.config
+C:\projects\c#\46\arraystruct1\arraystruct1\bin\Debug\arraystruct1.exe
+C:\projects\c#\46\arraystruct1\arraystruct1\bin\Debug\arraystruct1.pdb
+C:\projects\c#\46\arraystruct1\arraystruct1\obj\Debug\arraystruct1.csproj.CoreCompileInputs.cache
+C:\projects\c#\46\arraystruct1\arraystruct1\obj\Debug\arraystruct1.exe
+C:\projects\c#\46\arraystruct1\arraystruct1\obj\Debug\arraystruct1.pdb
+C:\projects\c#\46\arraystruct1\arraystruct1\obj\Debug\arraystruct1.csprojAssemblyReference.cache

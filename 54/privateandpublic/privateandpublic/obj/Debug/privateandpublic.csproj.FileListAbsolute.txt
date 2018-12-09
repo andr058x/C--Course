@@ -1,0 +1,7 @@
+C:\projects\c#\54\privateandpublic\privateandpublic\bin\Debug\privateandpublic.exe.config
+C:\projects\c#\54\privateandpublic\privateandpublic\bin\Debug\privateandpublic.exe
+C:\projects\c#\54\privateandpublic\privateandpublic\bin\Debug\privateandpublic.pdb
+C:\projects\c#\54\privateandpublic\privateandpublic\obj\Debug\privateandpublic.csprojAssemblyReference.cache
+C:\projects\c#\54\privateandpublic\privateandpublic\obj\Debug\privateandpublic.csproj.CoreCompileInputs.cache
+C:\projects\c#\54\privateandpublic\privateandpublic\obj\Debug\privateandpublic.exe
+C:\projects\c#\54\privateandpublic\privateandpublic\obj\Debug\privateandpublic.pdb

@@ -1,0 +1,4 @@
+C:\projects\c#\41\scope\scope\obj\Debug\netcoreapp2.1\scope.csproj.CoreCompileInputs.cache
+C:\projects\c#\41\scope\scope\obj\Debug\netcoreapp2.1\scope.AssemblyInfoInputs.cache
+C:\projects\c#\41\scope\scope\obj\Debug\netcoreapp2.1\scope.AssemblyInfo.cs
+C:\projects\c#\41\scope\scope\obj\Debug\netcoreapp2.1\scope.csprojAssemblyReference.cache

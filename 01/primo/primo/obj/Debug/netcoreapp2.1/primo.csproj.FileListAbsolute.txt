@@ -1,0 +1,10 @@
+C:\projects\c#\01\primo\primo\bin\Debug\netcoreapp2.1\primo.deps.json
+C:\projects\c#\01\primo\primo\bin\Debug\netcoreapp2.1\primo.runtimeconfig.json
+C:\projects\c#\01\primo\primo\bin\Debug\netcoreapp2.1\primo.runtimeconfig.dev.json
+C:\projects\c#\01\primo\primo\bin\Debug\netcoreapp2.1\primo.dll
+C:\projects\c#\01\primo\primo\bin\Debug\netcoreapp2.1\primo.pdb
+C:\projects\c#\01\primo\primo\obj\Debug\netcoreapp2.1\primo.csproj.CoreCompileInputs.cache
+C:\projects\c#\01\primo\primo\obj\Debug\netcoreapp2.1\primo.AssemblyInfoInputs.cache
+C:\projects\c#\01\primo\primo\obj\Debug\netcoreapp2.1\primo.AssemblyInfo.cs
+C:\projects\c#\01\primo\primo\obj\Debug\netcoreapp2.1\primo.dll
+C:\projects\c#\01\primo\primo\obj\Debug\netcoreapp2.1\primo.pdb

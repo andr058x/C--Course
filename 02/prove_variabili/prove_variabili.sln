@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prove_variabili", "prove_variabili\prove_variabili.csproj", "{DA4DA661-5374-449D-B153-65D5B806111A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA4DA661-5374-449D-B153-65D5B806111A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4DA661-5374-449D-B153-65D5B806111A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4DA661-5374-449D-B153-65D5B806111A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4DA661-5374-449D-B153-65D5B806111A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AD4623E-72BA-4E88-A6BB-591E0B676492}
+	EndGlobalSection
+EndGlobal

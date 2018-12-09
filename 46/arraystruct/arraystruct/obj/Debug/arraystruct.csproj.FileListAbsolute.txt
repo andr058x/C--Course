@@ -1,0 +1,1 @@
+C:\projects\c#\46\arraystruct\arraystruct\obj\Debug\arraystruct.csproj.CoreCompileInputs.cache

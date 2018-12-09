@@ -1,0 +1,10 @@
+C:\projects\c#\12\funzioni1\funzioni1\bin\Debug\netcoreapp2.1\funzioni1.deps.json
+C:\projects\c#\12\funzioni1\funzioni1\bin\Debug\netcoreapp2.1\funzioni1.runtimeconfig.json
+C:\projects\c#\12\funzioni1\funzioni1\bin\Debug\netcoreapp2.1\funzioni1.runtimeconfig.dev.json
+C:\projects\c#\12\funzioni1\funzioni1\bin\Debug\netcoreapp2.1\funzioni1.dll
+C:\projects\c#\12\funzioni1\funzioni1\bin\Debug\netcoreapp2.1\funzioni1.pdb
+C:\projects\c#\12\funzioni1\funzioni1\obj\Debug\netcoreapp2.1\funzioni1.csproj.CoreCompileInputs.cache
+C:\projects\c#\12\funzioni1\funzioni1\obj\Debug\netcoreapp2.1\funzioni1.AssemblyInfoInputs.cache
+C:\projects\c#\12\funzioni1\funzioni1\obj\Debug\netcoreapp2.1\funzioni1.AssemblyInfo.cs
+C:\projects\c#\12\funzioni1\funzioni1\obj\Debug\netcoreapp2.1\funzioni1.dll
+C:\projects\c#\12\funzioni1\funzioni1\obj\Debug\netcoreapp2.1\funzioni1.pdb

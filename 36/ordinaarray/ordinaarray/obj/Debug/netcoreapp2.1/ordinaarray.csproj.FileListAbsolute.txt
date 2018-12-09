@@ -1,0 +1,11 @@
+C:\projects\c#\36\ordinaarray\ordinaarray\bin\Debug\netcoreapp2.1\ordinaarray.deps.json
+C:\projects\c#\36\ordinaarray\ordinaarray\bin\Debug\netcoreapp2.1\ordinaarray.runtimeconfig.json
+C:\projects\c#\36\ordinaarray\ordinaarray\bin\Debug\netcoreapp2.1\ordinaarray.runtimeconfig.dev.json
+C:\projects\c#\36\ordinaarray\ordinaarray\bin\Debug\netcoreapp2.1\ordinaarray.dll
+C:\projects\c#\36\ordinaarray\ordinaarray\bin\Debug\netcoreapp2.1\ordinaarray.pdb
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.csprojAssemblyReference.cache
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.csproj.CoreCompileInputs.cache
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.AssemblyInfoInputs.cache
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.AssemblyInfo.cs
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.dll
+C:\projects\c#\36\ordinaarray\ordinaarray\obj\Debug\netcoreapp2.1\ordinaarray.pdb

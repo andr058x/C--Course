@@ -1,0 +1,7 @@
+C:\projects\c#\47\appswitch1\appswitch1\obj\Debug\appswitch1.csprojAssemblyReference.cache
+C:\projects\c#\47\appswitch1\appswitch1\obj\Debug\appswitch1.csproj.CoreCompileInputs.cache
+C:\projects\c#\47\appswitch1\appswitch1\bin\Debug\appswitch1.exe.config
+C:\projects\c#\47\appswitch1\appswitch1\bin\Debug\appswitch1.exe
+C:\projects\c#\47\appswitch1\appswitch1\bin\Debug\appswitch1.pdb
+C:\projects\c#\47\appswitch1\appswitch1\obj\Debug\appswitch1.exe
+C:\projects\c#\47\appswitch1\appswitch1\obj\Debug\appswitch1.pdb

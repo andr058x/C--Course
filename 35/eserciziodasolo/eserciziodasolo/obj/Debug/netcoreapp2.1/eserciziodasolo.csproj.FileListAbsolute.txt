@@ -1,0 +1,11 @@
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.csprojAssemblyReference.cache
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.csproj.CoreCompileInputs.cache
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.AssemblyInfoInputs.cache
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.AssemblyInfo.cs
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\bin\Debug\netcoreapp2.1\eserciziodasolo.deps.json
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\bin\Debug\netcoreapp2.1\eserciziodasolo.runtimeconfig.json
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\bin\Debug\netcoreapp2.1\eserciziodasolo.runtimeconfig.dev.json
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\bin\Debug\netcoreapp2.1\eserciziodasolo.dll
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\bin\Debug\netcoreapp2.1\eserciziodasolo.pdb
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.dll
+C:\projects\c#\35\eserciziodasolo\eserciziodasolo\obj\Debug\netcoreapp2.1\eserciziodasolo.pdb

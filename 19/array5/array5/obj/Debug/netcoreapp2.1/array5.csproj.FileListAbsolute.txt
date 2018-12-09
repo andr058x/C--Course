@@ -1,0 +1,11 @@
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.csprojAssemblyReference.cache
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.csproj.CoreCompileInputs.cache
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.AssemblyInfoInputs.cache
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.AssemblyInfo.cs
+C:\projects\c#\19\array5\array5\bin\Debug\netcoreapp2.1\array5.deps.json
+C:\projects\c#\19\array5\array5\bin\Debug\netcoreapp2.1\array5.runtimeconfig.json
+C:\projects\c#\19\array5\array5\bin\Debug\netcoreapp2.1\array5.runtimeconfig.dev.json
+C:\projects\c#\19\array5\array5\bin\Debug\netcoreapp2.1\array5.dll
+C:\projects\c#\19\array5\array5\bin\Debug\netcoreapp2.1\array5.pdb
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.dll
+C:\projects\c#\19\array5\array5\obj\Debug\netcoreapp2.1\array5.pdb

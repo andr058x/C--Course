@@ -1,0 +1,11 @@
+C:\projects\c#\24\ricercanome\ricercanome\bin\Debug\netcoreapp2.1\ricercanome.deps.json
+C:\projects\c#\24\ricercanome\ricercanome\bin\Debug\netcoreapp2.1\ricercanome.runtimeconfig.json
+C:\projects\c#\24\ricercanome\ricercanome\bin\Debug\netcoreapp2.1\ricercanome.runtimeconfig.dev.json
+C:\projects\c#\24\ricercanome\ricercanome\bin\Debug\netcoreapp2.1\ricercanome.dll
+C:\projects\c#\24\ricercanome\ricercanome\bin\Debug\netcoreapp2.1\ricercanome.pdb
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.csprojAssemblyReference.cache
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.csproj.CoreCompileInputs.cache
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.AssemblyInfoInputs.cache
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.AssemblyInfo.cs
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.dll
+C:\projects\c#\24\ricercanome\ricercanome\obj\Debug\netcoreapp2.1\ricercanome.pdb

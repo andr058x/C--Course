@@ -1,0 +1,11 @@
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\bin\Debug\netcoreapp2.1\cambioarraystringhe.deps.json
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\bin\Debug\netcoreapp2.1\cambioarraystringhe.runtimeconfig.json
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\bin\Debug\netcoreapp2.1\cambioarraystringhe.runtimeconfig.dev.json
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\bin\Debug\netcoreapp2.1\cambioarraystringhe.dll
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\bin\Debug\netcoreapp2.1\cambioarraystringhe.pdb
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.csprojAssemblyReference.cache
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.csproj.CoreCompileInputs.cache
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.AssemblyInfoInputs.cache
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.AssemblyInfo.cs
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.dll
+C:\projects\c#\34\cambioarraystringhe\cambioarraystringhe\obj\Debug\netcoreapp2.1\cambioarraystringhe.pdb
