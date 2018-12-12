@@ -8,3 +8,13 @@ C:\projects\c#\16\array1\array1\obj\Debug\netcoreapp2.1\array1.AssemblyInfoInput
 C:\projects\c#\16\array1\array1\obj\Debug\netcoreapp2.1\array1.AssemblyInfo.cs
 C:\projects\c#\16\array1\array1\obj\Debug\netcoreapp2.1\array1.dll
 C:\projects\c#\16\array1\array1\obj\Debug\netcoreapp2.1\array1.pdb
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\obj\Debug\netcoreapp2.1\array1.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\obj\Debug\netcoreapp2.1\array1.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\obj\Debug\netcoreapp2.1\array1.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\obj\Debug\netcoreapp2.1\array1.dll
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\obj\Debug\netcoreapp2.1\array1.pdb
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\bin\Debug\netcoreapp2.1\array1.deps.json
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\bin\Debug\netcoreapp2.1\array1.runtimeconfig.json
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\bin\Debug\netcoreapp2.1\array1.runtimeconfig.dev.json
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\bin\Debug\netcoreapp2.1\array1.dll
+C:\Users\andre\Documents\GitHub\C--Course\16\array1\array1\bin\Debug\netcoreapp2.1\array1.pdb

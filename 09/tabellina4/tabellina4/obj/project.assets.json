@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\09\\tabellina4\\tabellina4\\tabellina4.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\09\\tabellina4\\tabellina4\\tabellina4.csproj",
       "projectName": "tabellina4",
-      "projectPath": "C:\\projects\\c#\\09\\tabellina4\\tabellina4\\tabellina4.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\09\\tabellina4\\tabellina4\\tabellina4.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\09\\tabellina4\\tabellina4\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\09\\tabellina4\\tabellina4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

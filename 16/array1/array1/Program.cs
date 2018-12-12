@@ -6,16 +6,16 @@ namespace array1
     {
         static void Main(string[] args)
         {
-            int[] eta;
-            eta = new int[10];
-            int i;
-            for (i=0; i<10; i++)
+            int[] eta; //Crero un array
+            eta = new int[10]; //Istanzio un array
+            int i;  //Dichiaro una variabile
+            for (i=0; i<10; i++)  //Ciclo for per prenderei numeri
             {
-                Console.WriteLine($"Inserisci il {i+1} numero");
+                Console.WriteLine($"Inserisci il {i+1} numero");  
                 eta[i] = Convert.ToInt32(Console.ReadLine());
             }
             
-            for (i=0; i<10; i++)
+            for (i=0; i<10; i++)  //Ciclo for per stampare i numeri
             {
                 Console.WriteLine(eta[i]);
             }

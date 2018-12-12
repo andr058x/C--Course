@@ -13,14 +13,14 @@ namespace prove_variabili
             var nome = "Pippo";
             
             Console.WriteLine(6);// Console.WriteLine scrive sul video il valore di ciò che gli pasi tra parentesi
-            Console.WriteLine(2+2); // il valore di una espressione matematica (ANCHE UNA SOMMA) è IL SUO risultato, quindi writeline se gli passi una espressione matematica ti scrive il risultato
-            Console.WriteLine(x);
-            Console.WriteLine(y);
+            Console.WriteLine(2+2); // Il valore di una espressione matematica (ANCHE UNA SOMMA) è IL SUO risultato, quindi writeline se gli passi una espressione matematica ti scrive il risultato
+            Console.WriteLine(x);  //Stampo una variabile
+            Console.WriteLine(y);//Stampo una variabile
 
-            Console.WriteLine("nmvbjmnb");
-            Console.WriteLine("2+2");
-            Console.WriteLine(nome);
-            Console.WriteLine(cognome);
+            Console.WriteLine("nmvbjmnb"); //Stampo una stringa
+            Console.WriteLine("2+2");  //Stampo una stringa
+            Console.WriteLine(nome);  //Stampo una variabile
+            Console.WriteLine(cognome);  //Stampo una variabile
 
 
             Console.ReadKey(); 

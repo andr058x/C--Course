@@ -1,0 +1,6 @@
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\bin\Debug\LECLASSI.exe.config
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\bin\Debug\LECLASSI.exe
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\bin\Debug\LECLASSI.pdb
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\obj\Debug\LECLASSI.csproj.CoreCompileInputs.cache
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\obj\Debug\LECLASSI.exe
+C:\projects\altri esercizi\15\LECLASSI\LECLASSI\obj\Debug\LECLASSI.pdb

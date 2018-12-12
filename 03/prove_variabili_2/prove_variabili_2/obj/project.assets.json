@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\03\\prove_variabili_2\\prove_variabili_2\\prove_variabili_2.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\03\\prove_variabili_2\\prove_variabili_2\\prove_variabili_2.csproj",
       "projectName": "prove_variabili_2",
-      "projectPath": "C:\\projects\\c#\\03\\prove_variabili_2\\prove_variabili_2\\prove_variabili_2.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\03\\prove_variabili_2\\prove_variabili_2\\prove_variabili_2.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\03\\prove_variabili_2\\prove_variabili_2\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\03\\prove_variabili_2\\prove_variabili_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

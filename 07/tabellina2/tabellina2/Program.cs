@@ -8,7 +8,7 @@ namespace tabellina2
         {
             int n;
             int i;
-            for (i=1; i<=10; i++)
+            for (i=1; i<=10; i++)  //Ciclo for partendo da 1
             {
                 n = 2 * i;
                 Console.WriteLine($"2x{i}={n}");

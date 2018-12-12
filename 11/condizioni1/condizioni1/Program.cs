@@ -6,19 +6,17 @@ namespace condizioni1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Quanti anni hai?");
-            /*   
-             *   String annis = Console.ReadLine();
-             *   int anni = Convert.ToInt32(annis);
-             */
-            int anni = Convert.ToInt32(Console.ReadLine());
-            if (anni >= 18)
+            Console.WriteLine("Quanti anni hai?");  //Stampo a video
+            
+
+            int anni = Convert.ToInt32(Console.ReadLine());  //Prendo i dati dall'utente
+            if (anni >= 18) //Verifico che questa condizone è vera
             {
-                Console.WriteLine("Sei maggiorenne puoi entrare");
+                Console.WriteLine("Sei maggiorenne puoi entrare");  //Se la condizione è vera stampo questo
             }
             else
             {
-                Console.WriteLine("Mi dispaice non puoi entrare perchè sei minorenne");
+                Console.WriteLine("Mi dispaice non puoi entrare perchè sei minorenne");  //Altrimenti stampo questo
             }
 
             Console.WriteLine("Premi un tasto per continuare");

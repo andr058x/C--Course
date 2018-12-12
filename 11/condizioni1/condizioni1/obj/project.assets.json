@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\11\\condizioni1\\condizioni1\\condizioni1.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\11\\condizioni1\\condizioni1\\condizioni1.csproj",
       "projectName": "condizioni1",
-      "projectPath": "C:\\projects\\c#\\11\\condizioni1\\condizioni1\\condizioni1.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\11\\condizioni1\\condizioni1\\condizioni1.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\11\\condizioni1\\condizioni1\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\11\\condizioni1\\condizioni1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

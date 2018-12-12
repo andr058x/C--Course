@@ -1,0 +1,7 @@
+C:\projects\altri esercizi\14\ufficio\ufficio\bin\Debug\ufficio.exe.config
+C:\projects\altri esercizi\14\ufficio\ufficio\bin\Debug\ufficio.exe
+C:\projects\altri esercizi\14\ufficio\ufficio\bin\Debug\ufficio.pdb
+C:\projects\altri esercizi\14\ufficio\ufficio\obj\Debug\ufficio.csprojAssemblyReference.cache
+C:\projects\altri esercizi\14\ufficio\ufficio\obj\Debug\ufficio.csproj.CoreCompileInputs.cache
+C:\projects\altri esercizi\14\ufficio\ufficio\obj\Debug\ufficio.exe
+C:\projects\altri esercizi\14\ufficio\ufficio\obj\Debug\ufficio.pdb

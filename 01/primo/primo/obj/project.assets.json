@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\01\\primo\\primo\\primo.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\01\\primo\\primo\\primo.csproj",
       "projectName": "primo",
-      "projectPath": "C:\\projects\\c#\\01\\primo\\primo\\primo.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\01\\primo\\primo\\primo.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\01\\primo\\primo\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\01\\primo\\primo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

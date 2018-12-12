@@ -9,3 +9,14 @@ C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.Assem
 C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.dll
 C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.pdb
 C:\projects\c#\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.deps.json
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.runtimeconfig.json
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.runtimeconfig.dev.json
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.dll
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\bin\Debug\netcoreapp2.1\tabellina4.pdb
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.dll
+C:\Users\andre\Documents\GitHub\C--Course\09\tabellina4\tabellina4\obj\Debug\netcoreapp2.1\tabellina4.pdb

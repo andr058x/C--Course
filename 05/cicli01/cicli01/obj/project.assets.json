@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\05\\cicli01\\cicli01\\cicli01.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\05\\cicli01\\cicli01\\cicli01.csproj",
       "projectName": "cicli01",
-      "projectPath": "C:\\projects\\c#\\05\\cicli01\\cicli01\\cicli01.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\05\\cicli01\\cicli01\\cicli01.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\05\\cicli01\\cicli01\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\05\\cicli01\\cicli01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

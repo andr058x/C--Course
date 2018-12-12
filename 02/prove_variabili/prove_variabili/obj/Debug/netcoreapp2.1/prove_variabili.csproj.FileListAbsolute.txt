@@ -9,3 +9,14 @@ C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_
 C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.dll
 C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.pdb
 C:\projects\c#\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.deps.json
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.runtimeconfig.json
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.runtimeconfig.dev.json
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.dll
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\bin\Debug\netcoreapp2.1\prove_variabili.pdb
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.csprojAssemblyReference.cache
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.dll
+C:\Users\andre\Documents\GitHub\C--Course\02\prove_variabili\prove_variabili\obj\Debug\netcoreapp2.1\prove_variabili.pdb

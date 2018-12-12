@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\c#\\08\\tablellina3\\tablellina3\\tablellina3.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\08\\tablellina3\\tablellina3\\tablellina3.csproj",
       "projectName": "tablellina3",
-      "projectPath": "C:\\projects\\c#\\08\\tablellina3\\tablellina3\\tablellina3.csproj",
+      "projectPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\08\\tablellina3\\tablellina3\\tablellina3.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\c#\\08\\tablellina3\\tablellina3\\obj\\",
+      "outputPath": "C:\\Users\\andre\\Documents\\GitHub\\C--Course\\08\\tablellina3\\tablellina3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

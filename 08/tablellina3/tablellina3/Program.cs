@@ -8,10 +8,10 @@ namespace tablellina3
         {
             int i;
             int n;
-            for (i = 1; i <= 10; i++)
+            for (i = 1; i <= 10; i++)  //Ciclo for
             {
                 n = 3 * i;
-                Console.WriteLine($"3x{i}={n}");
+                Console.WriteLine($"3x{i}={n}");  //Sintassi per scrivere dentro le parentesi
             }
         
 
