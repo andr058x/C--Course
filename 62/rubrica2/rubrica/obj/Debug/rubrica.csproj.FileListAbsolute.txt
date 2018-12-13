@@ -1,0 +1,7 @@
+C:\projects\altri esercizi\12\rubrica\rubrica\bin\Debug\rubrica.exe.config
+C:\projects\altri esercizi\12\rubrica\rubrica\bin\Debug\rubrica.exe
+C:\projects\altri esercizi\12\rubrica\rubrica\bin\Debug\rubrica.pdb
+C:\projects\altri esercizi\12\rubrica\rubrica\obj\Debug\rubrica.csprojAssemblyReference.cache
+C:\projects\altri esercizi\12\rubrica\rubrica\obj\Debug\rubrica.csproj.CoreCompileInputs.cache
+C:\projects\altri esercizi\12\rubrica\rubrica\obj\Debug\rubrica.exe
+C:\projects\altri esercizi\12\rubrica\rubrica\obj\Debug\rubrica.pdb

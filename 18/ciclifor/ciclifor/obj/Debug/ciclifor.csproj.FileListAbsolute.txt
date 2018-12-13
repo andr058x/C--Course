@@ -1,0 +1,7 @@
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\bin\Debug\ciclifor.exe.config
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\bin\Debug\ciclifor.exe
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\bin\Debug\ciclifor.pdb
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\obj\Debug\ciclifor.csprojAssemblyReference.cache
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\obj\Debug\ciclifor.csproj.CoreCompileInputs.cache
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\obj\Debug\ciclifor.exe
+C:\projects\esercizi da solo\4\ciclifor\ciclifor\obj\Debug\ciclifor.pdb

@@ -1,0 +1,7 @@
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\obj\Debug\eserciziodasolo2.csprojAssemblyReference.cache
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\obj\Debug\eserciziodasolo2.csproj.CoreCompileInputs.cache
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\bin\Debug\eserciziodasolo2.exe.config
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\bin\Debug\eserciziodasolo2.exe
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\bin\Debug\eserciziodasolo2.pdb
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\obj\Debug\eserciziodasolo2.exe
+C:\projects\esercizi da solo\Esercizio2\eserciziodasolo2\eserciziodasolo2\obj\Debug\eserciziodasolo2.pdb

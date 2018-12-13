@@ -1,0 +1,7 @@
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\bin\Debug\Esercizio1.exe.config
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\bin\Debug\Esercizio1.exe
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\bin\Debug\Esercizio1.pdb
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\obj\Debug\Esercizio1.csprojAssemblyReference.cache
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\obj\Debug\Esercizio1.csproj.CoreCompileInputs.cache
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\obj\Debug\Esercizio1.exe
+C:\projects\esercizi da solo\Esercizio1\Esercizio1\obj\Debug\Esercizio1.pdb

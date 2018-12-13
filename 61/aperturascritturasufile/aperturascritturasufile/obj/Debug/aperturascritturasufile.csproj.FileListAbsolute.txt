@@ -1,0 +1,7 @@
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\bin\Debug\aperturascritturasufile.exe.config
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\bin\Debug\aperturascritturasufile.exe
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\bin\Debug\aperturascritturasufile.pdb
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\obj\Debug\aperturascritturasufile.csprojAssemblyReference.cache
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\obj\Debug\aperturascritturasufile.csproj.CoreCompileInputs.cache
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\obj\Debug\aperturascritturasufile.exe
+C:\projects\altri esercizi\10\aperturascritturasufile\aperturascritturasufile\obj\Debug\aperturascritturasufile.pdb

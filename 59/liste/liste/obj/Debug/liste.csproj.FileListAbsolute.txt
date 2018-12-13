@@ -1,0 +1,7 @@
+C:\projects\esercizi da solo\5\liste\liste\bin\Debug\liste.exe.config
+C:\projects\esercizi da solo\5\liste\liste\bin\Debug\liste.exe
+C:\projects\esercizi da solo\5\liste\liste\bin\Debug\liste.pdb
+C:\projects\esercizi da solo\5\liste\liste\obj\Debug\liste.csprojAssemblyReference.cache
+C:\projects\esercizi da solo\5\liste\liste\obj\Debug\liste.csproj.CoreCompileInputs.cache
+C:\projects\esercizi da solo\5\liste\liste\obj\Debug\liste.exe
+C:\projects\esercizi da solo\5\liste\liste\obj\Debug\liste.pdb
